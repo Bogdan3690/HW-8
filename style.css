@@ -16,3 +16,8 @@ div+h3+p{
 .yellow{
     color: yellow;
 }
+
+ul:hover{
+    color: red;
+}
+
